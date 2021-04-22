@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Merhaba Git");
             Console.WriteLine("edit");
+            Console.WriteLine("bir edit daha");
         }
     }
 }
