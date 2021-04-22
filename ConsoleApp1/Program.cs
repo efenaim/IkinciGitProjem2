@@ -11,6 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine("edit");
             Console.WriteLine("bir edit daha");
 
+            Console.WriteLine("asd");
+
             Console.WriteLine("al sana bir edit");
 
             Console.WriteLine("anhsdbkjadnskasd");
