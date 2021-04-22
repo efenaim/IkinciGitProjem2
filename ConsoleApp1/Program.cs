@@ -14,6 +14,8 @@ namespace ConsoleApp1
             Console.WriteLine("al sana bir edit");
 
             Console.WriteLine("anhsdbkjadnskasd");
+
+            Console.WriteLine("asdasd");
         }
     }
 }
