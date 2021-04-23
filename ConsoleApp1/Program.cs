@@ -19,6 +19,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("asdasd");
 
+            Console.WriteLine("21:08");
+
 
         }
     }
